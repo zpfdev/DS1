@@ -2,4 +2,4 @@
 
 ## Data Science Programming I
 
-This repository contains the lessons for the DS1
+You need to start with the setup process in setup.md
